@@ -1,13 +1,11 @@
-### Hi there 👋
-
 <!--
-**Cecilierenee/Cecilierenee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cecilierenee/Cecilierenee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <h1 align="center">Hi 👋, I'm CeCe</h1>
 <h3 align="center">A passionate Software Engineer from Kentucky</h3>
 
 - 🔭 I’m currently working on [Unknown](##)
-
+-    I am also passionate about working with and building apps for businesses within my community.
 - 📫 How to reach me **Cecilie_robb@outlook.com**
 
 - ⚡ Fun fact **I love to spend time with my pup!**
