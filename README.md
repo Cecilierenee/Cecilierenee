@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm CeCe</h1>
 <h3 align="center">A passionate Software Engineer from Kentucky</h3>
 
-- 🔭 I’m currently working on <a href ="https://github.com/Cecilierenee/Unit2-Project.git" target ="blank"> Game Library App. </a> A pair-programing project for the program I am in.
+- 🔭 I’m currently working on <a href ="https://github.com/Cecilierenee/Inch-by-inch-FE" target ="blank"> Inch by Inch. </a> This is my Capstone project for the Java immersive course I've been in. This app help a user keep track of their hair routines, I will be building the front and back end of this application using springboot REST Api and Angular with bootstrap.
 -    I am also passionate about working with and building apps for businesses within my community.
 - 📫 How to reach me **Cecilie_robb@outlook.com**
 
